@@ -18,6 +18,7 @@ This is the Book Listing App project of Android Basics Nanodegree by Udacity
 
 ## Description
 •	It displays a list of books that is entered by a user.
+
 •	It uses Networking and searches the data entered by the user on Google Books API.
 
 ## PROJECT LICENSE
