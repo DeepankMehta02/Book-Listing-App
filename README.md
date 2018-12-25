@@ -1,6 +1,6 @@
 # Book-Listing-App
 
-This is the Book Listing App project of Android Basics Nanodegree by Udacity
+This is the Book Listing App project.
 
 ## Features Used
 
@@ -23,7 +23,7 @@ This is the Book Listing App project of Android Basics Nanodegree by Udacity
 
 ## PROJECT LICENSE
 
-This project was submitted by Deepank Mehta as part of the Nanodegree At Udacity.
+This project was submitted by Deepank Mehta.
 
 As part of Udacity Honor code, your submissions must be your own work, hence
 submitting this project as yours will cause you to break the Udacity Honor Code
